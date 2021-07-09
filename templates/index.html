@@ -1,0 +1,64 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<style>
+  body{
+   background-color:#f0f0f0;  
+  }
+  
+  iframe {
+    overflow:hidden;
+  }
+</style>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">LemmeIN - 20183418</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="http://localhost:5000/">Giriş Kontrol <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="http://localhost:5000/kayit">Kayıt</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="http://localhost:5000/kayit_duzenle">Kayıt Düzenle</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="http://localhost:5000/kayit_silme">Kayıt Sil</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<style>
+  input[type=text]  {
+    width:200px;
+  }
+  input[type=submit] {
+    width:75px;
+    height: 31px;
+    padding:0;
+  }
+</style>
+</div>
+<div style="justify-content: center; display: flex; margin-top:40px;"> 
+  <form action = "http://localhost:5000/ders_kontrol" method = "POST" 
+         enctype = "multipart/form-data">
+<div width="500px">
+<div class="input-group input-group-sm mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="inputGroup-sizing-sm">Dersin adını seçiniz:</span>
+  </div>
+   <select name="ders_sec" id="ders_sec" class="form-control">
+        <option value="mat201">MAT201 (Diferansiyel)</option>
+        <option value="mat102">MAT102 (Calculus II)</option>
+      </select>
+
+         <input type = "submit"/ value="Başlat" class="btn btn-primary">
+</div>
+</div>
+</div></form>
