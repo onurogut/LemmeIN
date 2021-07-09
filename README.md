@@ -1,4 +1,5 @@
 # LemmeIN
+Python, Flask kullanılarak hazırlanmıştır.
 LemmeIN Giriş Sistemi, sınavlara giriş için kullanılmanın haricinde günümüz
 şartlarında yüzleştiğimiz CoronaVirus problemiyle birlikte temastan kaçındığımız
 için çeşitli etkinlikler (konser,davet,fuar gibi) için kullanılabilir. Ekstra olarak
