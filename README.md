@@ -52,19 +52,6 @@ to reduce the spread of the virus. If the application is implemented, it will di
 to protect the rights of individuals, to protect the rights of malicious people for a certain fee.
 plays a role in preventing a student from trying to take an exam.
 
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
-</p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -84,11 +71,8 @@ plays a role in preventing a student from trying to take an exam.
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -127,12 +111,24 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    pip install -r requirements.txt
    ```
+3. Running script
+   ```sh
+   python app.py
+   ```
+>['19858585.jpg', '19870101.jpg', '20183418.jpg', '20201112.jpg']['19858585', '19870101', '20183418', '20201112']<br>
+>Yüzler tanındı<br>
+ >Serving Flask app 'app' (lazy loading)<br>
+ >Environment: production<br>
+ >  WARNING: This is a development server. Do not use it in a production deployment.<br>
+ >  Use a production WSGI server instead.<br>
+ >Debug mode: off<br>
+ >Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)<br>
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
+<div align="center">
 <img src="https://i.gyazo.com/8aebd31a263c810ca982f98a40a8de1f.gif">
 
 <img src="https://i.gyazo.com/829263c29127c3ff0b809478c2371dc0.gif">
@@ -140,28 +136,7 @@ This is an example of how to list things you need to use the software and how to
 <img src="https://i.gyazo.com/a9c0676308eeed7289c0f34d8171d980.gif">
 
 <img src="https://i.gyazo.com/b87670d985bcc7978d7a67f87a58357b.png">
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
+</div>
 
 <!-- LICENSE -->
 ## License
@@ -173,18 +148,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@instagram_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@192.168.1.2](https://www.instagram.com/192.168.1.2)
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/onurogut/LemmeIN)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
 
 
