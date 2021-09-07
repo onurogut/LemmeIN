@@ -33,9 +33,8 @@
       <img src="https://i.gyazo.com/7a96057330c19a0449bcd73e5a277621.png" alt="Logo" width="150" height="150">
     </a>
 
-    <h3 align="center">LemmeIN</h3>
-
-    <p align="center">
+<h3 align="center">LemmeIN</h3>
+<p align="center">
   It was created using Flask with Python.
   The LemmeIN Entry System is a modern day system, apart from being used to enter exams.
   We avoided contact with the CoronaVirus problem that we are facing in the conditions of
@@ -54,8 +53,9 @@
 
 
   <!-- TABLE OF CONTENTS -->
-  <details open="open">
-    <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  
+ 
+ <summary><h2 style="display: inline-block">Table of Contents</h2>   </summary>  
     <ol>
       <li>
         <a href="#about-the-project">About The Project</a>
