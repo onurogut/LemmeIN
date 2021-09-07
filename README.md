@@ -150,7 +150,7 @@
 
   Onur Öğüt - [@192.168.1.2](https://www.instagram.com/192.168.1.2)
 
-  Project Link: [https://github.com/github_username/repo_name](https://github.com/onurogut/LemmeIN)
+  Project Link: [https://github.com/onurogut/LemmeIN](https://github.com/onurogut/LemmeIN)
 
 
 
