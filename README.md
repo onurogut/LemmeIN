@@ -30,7 +30,7 @@
   <br />
   <p align="center">
     <a href="https://github.com/onurogut/LemmeIN/">
-      <img src="https://i.gyazo.com/7a96057330c19a0449bcd73e5a277621.png" alt="Logo" width="150" height="150">
+      <img src="https://i.gyazo.com/7a96057330c19a0449bcd73e5a277621.png" alt="Logo" width="250" height="250">
     </a>
 
 <h3 align="center">LemmeIN</h3>
