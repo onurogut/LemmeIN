@@ -35,21 +35,16 @@
 
 <h3 align="center">LemmeIN</h3>
 <p align="center">
-  It was created using Flask with Python.
   The LemmeIN Entry System is a modern day system, apart from being used to enter exams.
-  We avoided contact with the CoronaVirus problem that we are facing in the conditions of
-  It can be used for various events (such as concerts, invitations, fairs). as an extra
+  We avoided contact with the CoronaVirus problem that we are facing. With this conditions
+  it can be used for various events (such as concerts, invitations, fairs).
   It can be custom shaped as well as working in integration with various systems.
-  can be provided. E.g; People's faces at the entrance to a concert when buying tickets online
-  Thanks to his promotion, he gets to know people who have tickets and opens the door for that person at the entrance to the concert.
-  You can close the door automatically after that person passes by using the proximity sensor.
-  closure can be achieved. In this way, it is more suitable for today's conditions.
-  access to environments can be provided and the spread of the virus can be prevented,
-  A strong precaution will be taken against those who violate their rights. The aim of the project is to scan the facial information of the students who will take the exam,
-  By checking whether it meets the entry conditions, it will control both the workload and the
-  to reduce the spread of the virus. If the application is implemented, it will direct the future in educational institutions and will be entitled to receive a license certificate.
-  to protect the rights of individuals, to protect the rights of malicious people for a certain fee.
-  plays a role in preventing a student from trying to take an exam.
+  E.g; Recognize faces at the entrance to a concert when buying tickets online
+  Thanks to this, LemmeIN gets to know people who have tickets and opens the door for 
+  that person at the entrance to the concert. LemmeIN can close the door automatically after
+  that person passes by using the proximity sensor. The aim of the project is to scan the facial
+  information of the students who will take the exam by checking whether it meets the entry conditions,
+  it will control both the workload and reduce the spread of the virus.
 
 
   <!-- TABLE OF CONTENTS -->
