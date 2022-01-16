@@ -238,5 +238,5 @@ def kayit_basarili():
 def video():
     return Response(gen(Video()),
     mimetype='multipart/x-mixed-replace; boundary=frame')
-
+if __name__ == '__main__':
 app.run(debug=False)
