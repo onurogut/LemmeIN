@@ -1,1 +1,1 @@
-heroku ps:scale web=1 --app lemme1n
+heroku ps:scale web=1
