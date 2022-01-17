@@ -64,10 +64,10 @@ def ders_kontrol():
 		print (ders_sec)
 		if (ders_sec=="mat201"):
 			print ("mat201 babacim")
-			return redirect('http://localhost:5000/mat201')
+			return redirect('/mat201')
 		if (ders_sec=="mat102"):
 			print ("mat102 babacim")
-			return redirect('http://localhost:5000/mat102')
+			return redirect('/mat102')
 
 		#print (ders_sec[1])
 		#ders_duzen = cs.execute('SELECT * FROM kayitlar WHERE ogrenci_no=?',(ders_sec,)).fetchall()
