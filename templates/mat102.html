@@ -40,13 +40,13 @@
 </div>
 <div style="justify-content: center; display: flex; margin-top:40px;"> 
 
-<iframe id=kontrol src="http://localhost:5000/mat102_canli" height="400"></iframe>
+<iframe id=kontrol src="/mat102_canli" height="400"></iframe>
 <script>
 window.setInterval("reloadIFrame();", 3000);
 
 function reloadIFrame() {
  var frameHolder=document.getElementById('kontrol');
-frameHolder.src="http://localhost:5000/mat102_canli"
+frameHolder.src="/mat102_canli"
 }
 </script>
 
