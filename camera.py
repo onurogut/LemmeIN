@@ -7,7 +7,7 @@ from datetime import datetime
 import sqlite3 as sql
 
 vt = sql.connect('ogrenciler.sqlite')
-path = '/ogrenciler'
+path = 'ogrenciler'
 images = []
 classNames = []
 myList = os.listdir(path)
